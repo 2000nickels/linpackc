@@ -1,3 +1,6 @@
+# Executable files
+linpackc
+
 # Compiled Object files
 *.slo
 *.lo
